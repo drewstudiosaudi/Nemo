@@ -18,5 +18,6 @@ Nemo is a high-performance programming language designed with security and speed
 > **Status:** Currently disabled. Stay tuned for future releases!
 
 ---
-
+### Download the educational brochure
+---
 *Developed by Drew Studio Inc.*
