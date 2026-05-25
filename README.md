@@ -18,6 +18,13 @@ Nemo is a high-performance programming language designed with security and speed
 > **Status:** Currently disabled. Stay tuned for future releases!
 
 ---
-### Download the educational brochure
+
+<a href="https://github.com/DrewStudio/Nemo/raw/main/downloads/Nemo_Brochure.pdf" download>
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer;">
+    Download the educational brochure
+  </button>
+</a>
+
 ---
+
 *Developed by Drew Studio Inc.*
